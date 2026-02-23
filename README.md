@@ -1,8 +1,8 @@
 <H3>Name: V KAMALESH VIJAYAKUMAR</H3>
 <H3>Register no: 212224110028</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
-# AIM:
+<H3>Implementation of perceptron for binary classification</H3>
+<H3>AIM:</H3>
 To implement a perceptron for classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
